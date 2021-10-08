@@ -1,1 +1,1 @@
-# web-page-responsive-.github.io
+Static web page(Using HTML , CSS and JavaScript only). 
